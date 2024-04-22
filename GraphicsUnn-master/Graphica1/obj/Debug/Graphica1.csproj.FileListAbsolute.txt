@@ -1,0 +1,11 @@
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\bin\Debug\Graphica1.exe.config
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\bin\Debug\Graphica1.exe
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\bin\Debug\Graphica1.pdb
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.csproj.AssemblyReference.cache
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.Form1.resources
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.Properties.Resources.resources
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.csproj.GenerateResource.cache
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.exe
+C:\Users\Reaper\Desktop\GraphicsUnn-master\Graphica1\obj\Debug\Graphica1.pdb
